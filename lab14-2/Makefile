@@ -4,7 +4,7 @@
 
 obj-m +=  lab14-2.o
 
-export KROOT=/lib/modules/5.0.1/build
+export KROOT=/lib/modules/5.0.1+/build
 
 allofit:  modules
 modules:
